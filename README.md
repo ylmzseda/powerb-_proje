@@ -16,5 +16,5 @@ o	Ürünler[ID] → siparisdetay[ItemID]
 •	Kadın Müşteri Sayısı / Erkek Müşteri Sayısı
 •	Yaş Grubuna Göre Satış, Bölgelere Göre Müşteri Sayısı, vb.
 4. Kullanım
-1.	MusteriRaporu.pbix dosyasını Power BI Desktop’ta aç
+1.	powerbı_proje_musteri_raporu.pbix dosyasını Power BI Desktop’ta aç
 2.	Refresh ile verileri güncelle
